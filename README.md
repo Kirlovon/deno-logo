@@ -27,4 +27,4 @@ Red Color: **#FF3C50**
 
 ### Copyright
 * Original design by Ryan Dahl
-* Vector design by Kirlovon
+* Vector design by Kirills Reunovs
